@@ -1,5 +1,5 @@
 ## Hey!
-I'm a Helsinki-based (soon Oulu), newly baked Software Developer looking for opportunities. Hence, **looking for work!**
+I'm a Helsinki-based (soon Oulu), newly baked Software Developer looking for opportunities. Hence, **looking for work** mainly in **Oulu area and remotely**!
 
 ### About
 - Entry/trainee level, looking for the first shot.
