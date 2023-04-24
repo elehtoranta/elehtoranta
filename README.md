@@ -1,8 +1,6 @@
-## Hey!
-I'm a newly baked Software Developer *looking for work* (in Finland), especially in Oulu area.
-
-### About
+## About me
 - Entry/trainee level programmer with some systems experience
-- Learning fullstack with Sveltekit
-- I'm studying Computer Science at Tampere University, previously software development at Hive Helsinki (42 schools) 
-- I'm looking to help with open source projects
+- Mostly C, some Rust, C++, Lua, JS/TS
+- Going full stack with [SvelteKit](https://kit.svelte.dev/)
+- I'm studying Computer Science at [Tampere University](https://www.tuni.fi/en/about-us/computing-sciences), previously programming at [Hive Helsinki](https://www.hive.fi/en/hire-a-hiver)
+- I don't use Vim, Vim uses me
